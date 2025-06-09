@@ -1,1 +1,1 @@
-This is the UI for the Game , GTA-VI
+This is the FrontEnd part of the game GTA-VI
